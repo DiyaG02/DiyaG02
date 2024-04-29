@@ -10,7 +10,7 @@
 
 - 🤖 Learning to train machines with **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DiyaG02](https://github.com/DiyaG02)
+- 👨‍💻 All of my projects are available at [https://github.com/DiyaG02](https://github.com/DiyaGhosh-01)
 
 - 💬 Ask me about **Full stack web dev, DSA, Web3**
 
